@@ -1,20 +1,16 @@
 ---
-name: Winnowmap
-date: "2020-02-11"
-home: https://github.com/marbl/Winnowmap/blob/master/README.md
-source: https://github.com/marbl/Winnowmap
-download: https://github.com/marbl/Winnowmap/releases
+name: FastOMA
+date: "2025-01-07"
+home: https://github.com/DessimozLab/FastOMA
+source: https://github.com/DessimozLab/FastOMA
+download: https://github.com/DessimozLab/FastOMA/releases
 desc:
- A long-read mapping algorithm optimized for mapping ONT and PacBio reads to repetitive reference sequences.
+	FastOMA is a scalable software package to infer orthology relationship.
 
 pubs: # cross-reference to _data/publications (no ".yml")
- - 2020-02-11-Jain
- - 2020-11-02-Jain
-
+ - 2025-01-07-fastoma
 people:
- - phillippy
- - koren
- - rhie
- - jain
- - chu
+ - sina
+ - ali
+
 ---
