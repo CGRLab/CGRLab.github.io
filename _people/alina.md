@@ -10,6 +10,8 @@ institutes:
 - unil
 - oxford
 portrait: /img/alina.jpg
-bio: Alina was a summer intern at the university of Lausanne. She is now a DPhil Candidate in Clinical Medicine at the University of Oxford, UK. She worked on the [OMAMO](https://doi.org/10.1093/bioinformatics/btac163) study, which addresses the challanges of non-complex organisms for research into a biological process of interest based on orthologous relationships between human and the species..
+bio: Alina was a summer intern with us at the University of Lausanne while she was an undergraduate student in Biochemistry at University College London (UCL). She developed the OMAMO resource, offering non-complex organisms for research into a biological process of interest. OMAMO works by leveraging orthologous relationships between human and other species. She is now a DPhil Candidate in Clinical Medicine at the University of Oxford, UK. 
 alum: true
 ---
+
+completed my BSc  in 2022 
