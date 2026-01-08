@@ -49,7 +49,7 @@ defaults:
     scope:
       path: "_join"
     values:
-      layout: project      
+      layout: post      
   -
     scope:
       path: "_people"

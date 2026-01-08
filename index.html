@@ -102,13 +102,13 @@ permalink: /
 
 
 
-{% if site.posts.size > 0 %}
-{% assign post = site.posts.first %}
-{% assign count = site.posts.size %}
+{% if site.join.size > 0 %}
+{% assign post = site.join.first %}
+{% assign count = site.join.size %}
 <div class="section">
 {% include title-bar.html title="JoinUs" %}
 {% include see-all.html name="join posts" link="join" count=count %}
-{% for post in site.posts limit:site.data.settings.landing-news-posts %}
+{% for post in site.join limit:site.data.settings.landing-news-posts %}
 <div class="post">
       <div style="float:right;">
 		{% include person-list-start.html %}
