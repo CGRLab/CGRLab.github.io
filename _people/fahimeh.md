@@ -9,6 +9,6 @@ institutes:
 - unil
 - ut
 portrait: /img/fahimeh.jpg
-Bio: Fahimeh was a PhD visitor at the University of Lausanne in 2024. She is now a Bioinformatician at the Children's Hospital of Philadelphia, USA.
+bio: Fahimeh was a PhD visitor at the University of Lausanne in 2024, working on copy number variations. She is now a Bioinformatician at the Children's Hospital of Philadelphia, USA.
 alum: true
 ---
