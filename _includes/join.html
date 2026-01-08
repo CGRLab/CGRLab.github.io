@@ -1,0 +1,15 @@
+{% assign join = include.join %}
+
+<div>
+      <h3 style="margin-bottom:0;font-family: courier;{% if join.retired %}color: #AAAAAA;{% endif %}">{{ join.name }}</h3>
+      <div class="postBody">
+        {% if join.retired %}
+	        <span style="color:#AAAAAA;">{{ join.desc }}</span>
+	        <span style="color:gray;"> [ <a href="{{ site.baseurl }}/retired">retired</a> ]</span>
+        {% else %}
+        	{{ join.desc }}
+        {% endif %}
+        <br/>
+        {% include join-links.html join=join %}
+      </div>
+</div>

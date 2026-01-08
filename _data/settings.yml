@@ -2,11 +2,9 @@ landing-news-posts: 3
 landing-pubs: 3
 
 landing-software:
- - verkko
- - mash
- - krona
- - merqury
- - moddotplot
+ - fastoma
+ 
+landing-join-posts: 2
 
 person-page-posts: 4
 person-page-projects: 4

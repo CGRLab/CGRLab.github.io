@@ -1,0 +1,12 @@
+{% assign join = include.join %}
+
+<ul class="link-list">
+
+{% if join.home %}
+  <li><a href="{{ join.home }}">home</a></li>
+{% endif %}
+	
+{% if join.download %}
+  <li><a href="{{ join.download }}">download</a></li>
+{% endif %}
+	

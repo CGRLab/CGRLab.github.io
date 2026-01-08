@@ -108,7 +108,7 @@ permalink: /
 <div class="section">
 {% include title-bar.html title="JoinUs" %}
 {% include see-all.html name="join posts" link="join" count=count %}
-{% for post in site.join limit:site.data.settings.landing-news-posts %}
+{% for post in site.join limit:site.data.settings.landing-join-posts %}
 <div class="post">
       <div style="float:right;">
 		{% include person-list-start.html %}
