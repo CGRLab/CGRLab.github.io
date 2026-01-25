@@ -1,7 +1,7 @@
 ---
-name: GenomeVE Lab
+name: CGR Lab
 pub-names:
-- GenomeVE Lab
+- Computational Genomics Research Lab
 scholar: https://scholar.google.com/citations?user=pgzi_1QAAAAJ
 role: The Lab
 institutes:
