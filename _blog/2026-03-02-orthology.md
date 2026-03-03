@@ -5,16 +5,16 @@ title: "How to start working in orthology inference!"
 1. Familirizeing yourself with concepts
 
 Here is a list of review papers and book chapters to start with:
-- Orthologs, Paralogs, and Evolutionary Genomics [Paper](https://doi.org/10.1146/annurev.genet.39.073003.114725)
-- Orthology: Promises and Challenges [Paper](https://link.springer.com/chapter/10.1007/978-3-030-57246-4_9)
+- Orthologs, Paralogs, and Evolutionary Genomics [Paper](https://doi.org/10.1146/annurev.genet.39.073003.114725).
+- Orthology: Promises and Challenges [Paper](https://link.springer.com/chapter/10.1007/978-3-030-57246-4_9).
 
 
 2. Familirizeing yourself with the literature
 
 These are latest method papers:
 - Orthology inference at scale with FastOMA [Paper](
- https://www.nature.com/articles/s41592-024-02552-8)
-- OrthoFinder [Paper 2025](https://www.biorxiv.org/content/10.1101/2025.07.15.664860) [2019](https://link.springer.com/article/10.1186/s13059-019-1832-y)  [2015](https://link.springer.com/article/10.1186/s13059-015-0721-2)
-- SonicParanoid  [Paper](https://link.springer.com/article/10.1186/s13059-024-03298-4)
+ https://www.nature.com/articles/s41592-024-02552-8).
+- OrthoFinder [Paper 2025](https://www.biorxiv.org/content/10.1101/2025.07.15.664860) [2019](https://link.springer.com/article/10.1186/s13059-019-1832-y)  [2015](https://link.springer.com/article/10.1186/s13059-015-0721-2).
+- SonicParanoid [Paper](https://link.springer.com/article/10.1186/s13059-024-03298-4).
  
 Next steps include finding the knowledge gap and room for improvement. It is also important to tun tools on small datasets and see their outpouts.
