@@ -20,6 +20,8 @@ paginate_path: "/news/page:num/"
 collections:
   projects:
     output: true
+  blogs:
+    output: true
   join:
     output: true    
   people:
@@ -49,7 +51,12 @@ defaults:
     scope:
       path: "_join"
     values:
-      layout: post      
+      layout: post 
+    -
+    scope:
+      path: "_blogs"
+    values:
+      layout: post 
   -
     scope:
       path: "_people"
