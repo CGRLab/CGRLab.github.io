@@ -52,7 +52,7 @@ defaults:
       path: "_join"
     values:
       layout: post 
-    -
+  -
     scope:
       path: "_blogs"
     values:
