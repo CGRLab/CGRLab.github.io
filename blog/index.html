@@ -7,8 +7,11 @@ title: Blog
 
 {% include page-nav.html %}
 
+{% assign sorted = site.blog | sort: "date" | reverse %}
+
+
 <div class="blog">
-  {% for post in site.blog %}
+  {% for post in sorted %}
     <article class="post">
 
       <div style="float:right;">
