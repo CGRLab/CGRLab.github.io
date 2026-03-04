@@ -6,9 +6,11 @@ title: JoinUs
 <h1 class="page-name">JoinUs</h1>
 
 {% include page-nav.html %}
+{% assign sorted = site.join | sort: "date" | reverse %}
+
 
 <div class="join">
-  {% for post in site.join | sort: 'date' | reverse %}
+  {% for post in sorted  %}
     <article class="post">
 
       <div style="float:right;">
