@@ -7,9 +7,7 @@ The first step is to familiarize yourself with the key concepts and literature. 
 - Orthologs, Paralogs, and Evolutionary Genomics [Paper](https://doi.org/10.1146/annurev.genet.39.073003.114725)
 - Orthology: Promises and Challenges [Paper](https://link.springer.com/chapter/10.1007/978-3-030-57246-4_9)
 
-Watch YouTube videos.
-- "Introduction to molecular evolution & phylogenetics": [Link](https://youtu.be/bOCG0qtIX3Q?t=5286) at 1:28:00
-- 
+Watch YouTube videos: "Introduction to molecular evolution & phylogenetics": [Link](https://youtu.be/bOCG0qtIX3Q?t=5286) at 1:28:00
 
 
 Next, we need to familiarize ourselves with the literature. These are the latest methods papers:
