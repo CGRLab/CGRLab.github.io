@@ -1,6 +1,6 @@
 ---
 name: PhD student
-pub-names: student
+pub-names:
 - student
 degree: Msc
 role: PhD student
