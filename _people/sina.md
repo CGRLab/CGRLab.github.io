@@ -11,6 +11,7 @@ role: Assistant Professor | DDLS Fellow
 institutes:
 - chalmers
 - gothenburg
+- scilifelab
 - jhu
 - unil
 portrait: /img/Sina_.jpg
