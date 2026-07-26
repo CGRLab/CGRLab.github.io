@@ -3,7 +3,7 @@ name: Sina Majidian
 pub-names:
 - Majidian S
 degree: PhD
-email: sina.majidian@gmail.com
+email: sina.majidian@chalmers.se
 homepage: https://sinamajidian.github.io/
 scholar: https://scholar.google.com/citations?user=pgzi_1QAAAAJ
 bsky: https://bsky.app/profile/sinamajidian.bsky.social
